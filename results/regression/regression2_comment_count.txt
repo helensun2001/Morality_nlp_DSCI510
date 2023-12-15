@@ -1,0 +1,12 @@
+                          coef  std err       t  P>|t|
+intercept              -0.1361    0.691  -0.197  0.844
+comment moral emotion  11.0512    0.968  11.414  0.000
+_______________________________________
+                             coef  std err      t  P>|t|
+intercept                  1.9113    0.684  2.795  0.006
+comment immoral judgement  1.7128    0.177  9.685  0.000
+_______________________________________
+                          coef  std err       t  P>|t|
+intercept              -0.1361    0.691  -0.197  0.844
+comment moral emotion  11.0512    0.968  11.414  0.000
+_______________________________________

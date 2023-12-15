@@ -1,0 +1,52 @@
+
+
+ repost_count: 
+ f statistic - 3.4166961433617864; p value - 0.0025783885518644123.
+
+ like_count: 
+ f statistic - 2.622200845193766; p value - 0.016361983949675588.
+
+ textlength: 
+ f statistic - 52.94997815002143; p value - 1.3410275865347e-50.
+
+ moral_score: 
+ f statistic - 9.837415537960968; p value - 2.8558277159958165e-10.
+
+ positive_prob: 
+ f statistic - 22.54191392455749; p value - 1.3093332965158327e-23.
+
+ comments_count: 
+ f statistic - 2.548225825823619; p value - 0.019331927424733077.
+
+ average_commenter_follow: 
+ f statistic - 2.7631005810815346; p value - 0.011867214006697801.
+
+ commenter_gender_ratio: 
+ f statistic - 16.680067949591106; p value - 1.303251272964376e-17.
+
+ average_positive_possibility: 
+ f statistic - 7.611719977862259; p value - 7.679559923699677e-08.
+
+ positive_negative_ratio: 
+ f statistic - 2.1266834140897477; p value - 0.04890868344167143.
+
+ average_text_lenth: 
+ f statistic - 9.218570250822987; p value - 1.335101313942113e-09.
+
+ pmoral: 
+ f statistic - 29.962104317679376; p value - 9.352246584217178e-31.
+
+ ave_pmoral: 
+ f statistic - 3.443028825757475; p value - 0.002424462332462455.
+
+ moral_emo_bylenth: 
+ f statistic - 3.7495762289544015; p value - 0.0011611142225873448.
+
+ average_moral_emo_bylenth: 
+ f statistic - 6.2568905503601675; p value - 2.3527382075665026e-06.
+
+ nonmoral_emo_bylenth: 
+ f statistic - 15.02929064992727; p value - 7.316802733195396e-16.
+
+ average_nonmoral_emo_bylenth: 
+ f statistic - 2.2581934902327605; p value - 0.036791303038681555.

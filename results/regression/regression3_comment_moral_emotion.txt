@@ -1,0 +1,12 @@
+                             coef  std err      t  P>|t|
+intercept                  0.0571    0.008  7.595  0.000
+source post moral emotion  0.0366    0.011  3.184  0.002
+_______________________________________
+                             coef  std err      t  P>|t|
+intercept                  0.0571    0.008  7.595  0.000
+source post moral emotion  0.0366    0.011  3.184  0.002
+_______________________________________
+                                coef  std err      t  P>|t|
+intercept                     0.0674    0.014  4.762  0.000
+source post binary sentiment  0.0004    0.002  0.221  0.825
+_______________________________________
